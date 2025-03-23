@@ -80,7 +80,9 @@ It looks like the Dashboard sheet is empty in the extracted preview. This could 
   - While commute time isn’t the biggest issue, HR can still explore remote work options for flexibility.
 
 
+### heatmap Overview
 
+![AltText](https://github.com/ChaudharyPallavi/Excel-Project-Portfolio/blob/main/heat%20map%20for%20data%20visualization.jpg)
 
 ### 2️⃣ Heat Map Insights
 The heat map sheet provides a correlation analysis of different factors affecting attrition. Here's what I observed:
